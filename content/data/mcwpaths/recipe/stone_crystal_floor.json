@@ -1,0 +1,9 @@
+{
+  "group": "blocks",
+  "ingredient": "minecraft:stone_bricks",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:stone_crystal_floor"
+  },
+  "type": "minecraft:stonecutting"
+}

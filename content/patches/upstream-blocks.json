@@ -1,0 +1,1892 @@
+{
+ "acacia_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "ACACIA_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_clover_paving": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_square_paving": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "ANDESITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "andesite_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "andesite_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "ANDESITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "bamboo_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "OAK_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "birch_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "BIRCH_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_clover_paving": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_square_paving": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "blackstone_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "blackstone_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "BLACKSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_clover_paving": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_square_paving": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "brick_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "brick_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cherry_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "CHERRY_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_clover_paving": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_square_paving": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobbled_deepslate_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "COBBLED_DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "cobblestone_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobblestone_clover_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobblestone_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobblestone_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobblestone_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "cobblestone_square_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "crimson_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "CRIMSON_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_oak_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "DARK_OAK_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_clover_paving": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_square_paving": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "dark_prismarine_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dark_prismarine_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "DARK_PRISMARINE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_clover_paving": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_square_paving": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "deepslate_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "deepslate_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "DEEPSLATE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_clover_paving": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_square_paving": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "DIORITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "diorite_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "diorite_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "DIORITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "dirt_path_block": {
+  "class": "FlattenedBlock",
+  "copy": "DIRT",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_clover_paving": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_square_paving": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "GRANITE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "granite_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "granite_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "GRANITE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "gravel_path_block": {
+  "class": "FlattenedBlock",
+  "copy": "GRAVEL",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "jungle_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "JUNGLE_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mangrove_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "MANGROVE_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_clover_paving": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_cobblestone_square_paving": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mossy_stone_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mossy_stone_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "MOSSY_COBBLESTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_clover_paving": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_square_paving": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "mud_brick_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "mud_brick_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "MUD_BRICKS",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "oak_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "OAK_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "podzol_path_block": {
+  "class": "FlattenedBlock",
+  "copy": "DIRT",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sand_path_block": {
+  "class": "FlattenedBlock",
+  "copy": "RED_SAND",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_clover_paving": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_square_paving": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "red_sandstone_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "red_sandstone_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "RED_SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sand_path_block": {
+  "class": "FlattenedBlock",
+  "copy": "SAND",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_basket_weave_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_clover_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_diamond_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_dumble_paving": {
+  "class": "FacingPathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_honeycomb_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_square_paving": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "SANDSTONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "sandstone_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "sandstone_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "SANDSTONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "spruce_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "SPRUCE_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_crystal_floor": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_crystal_floor_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_crystal_floor_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_crystal_floor_stairs": {
+  "class": "StairBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_flagstone": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_flagstone_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_flagstone_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_flagstone_stairs": {
+  "class": "StairBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_running_bond": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_running_bond_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_running_bond_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_running_bond_stairs": {
+  "class": "StairBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_strewn_rocky_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_windmill_weave": {
+  "class": "EngravedBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_windmill_weave_path": {
+  "class": "PathBlock",
+  "copy": "STONE",
+  "force_solid": true,
+  "no_occlusion": false
+ },
+ "stone_windmill_weave_slab": {
+  "class": "SlabBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "stone_windmill_weave_stairs": {
+  "class": "StairBlock",
+  "copy": "STONE",
+  "force_solid": false,
+  "no_occlusion": false
+ },
+ "warped_planks_path": {
+  "class": "FacingPathBlock",
+  "copy": "WARPED_PLANKS",
+  "force_solid": true,
+  "no_occlusion": false
+ }
+}

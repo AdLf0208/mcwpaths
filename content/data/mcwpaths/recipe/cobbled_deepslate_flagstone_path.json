@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:cobbled_deepslate",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:cobbled_deepslate_flagstone_path"
+  },
+  "type": "minecraft:stonecutting"
+}

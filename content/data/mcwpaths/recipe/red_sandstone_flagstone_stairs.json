@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:red_sandstone",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:red_sandstone_flagstone_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:deepslate_tiles",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:deepslate_square_paving"
+  },
+  "type": "minecraft:stonecutting"
+}

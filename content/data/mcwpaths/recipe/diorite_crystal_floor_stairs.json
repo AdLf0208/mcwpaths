@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:diorite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:diorite_crystal_floor_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

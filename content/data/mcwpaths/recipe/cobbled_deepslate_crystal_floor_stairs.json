@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:cobbled_deepslate",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:cobbled_deepslate_crystal_floor_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

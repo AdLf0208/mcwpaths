@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:andesite_running_bond_path"
+  },
+  "type": "minecraft:stonecutting"
+}

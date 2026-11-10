@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:stone_bricks",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:stone_running_bond_path"
+  },
+  "type": "minecraft:stonecutting"
+}

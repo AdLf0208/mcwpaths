@@ -1,0 +1,9 @@
+{
+  "group": "blocks",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:andesite_flagstone"
+  },
+  "type": "minecraft:stonecutting"
+}

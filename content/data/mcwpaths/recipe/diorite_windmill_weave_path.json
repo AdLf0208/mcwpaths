@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:diorite",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:diorite_windmill_weave_path"
+  },
+  "type": "minecraft:stonecutting"
+}

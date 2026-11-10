@@ -1,0 +1,11 @@
+{
+  "group": "wooden_paths",
+  "ingredients": [
+    "minecraft:acacia_slab"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwpaths:acacia_planks_path"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

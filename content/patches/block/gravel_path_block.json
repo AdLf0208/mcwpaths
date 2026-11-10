@@ -1,0 +1,43 @@
+{
+ "properties": {
+  "explosion_resistance": 0.6,
+  "friction": 0.6,
+  "hardness": 0.6,
+  "map_color": 11,
+  "requires_tool": false,
+  "sounds": "minecraft:gravel"
+ },
+ "shapes": {
+  "properties": [
+   "flattened"
+  ],
+  "values": {
+   "false": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   ],
+   "true": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.9375,
+     1.0
+    ]
+   ]
+  }
+ },
+ "state_properties": {
+  "flattened": {
+   "type": "boolean"
+  }
+ },
+ "template": "minecraft:stone"
+}

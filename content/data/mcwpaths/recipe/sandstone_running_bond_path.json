@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:sandstone",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:sandstone_running_bond_path"
+  },
+  "type": "minecraft:stonecutting"
+}

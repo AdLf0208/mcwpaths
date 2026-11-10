@@ -1,0 +1,43 @@
+{
+ "properties": {
+  "explosion_resistance": 0.8,
+  "friction": 0.6,
+  "hardness": 0.8,
+  "map_color": 2,
+  "requires_tool": true,
+  "sounds": "minecraft:sandstone"
+ },
+ "shapes": {
+  "properties": [
+   "engraved"
+  ],
+  "values": {
+   "false": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   ],
+   "true": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.9375,
+     1.0
+    ]
+   ]
+  }
+ },
+ "state_properties": {
+  "engraved": {
+   "type": "boolean"
+  }
+ },
+ "template": "minecraft:stone"
+}

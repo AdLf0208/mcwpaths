@@ -1,0 +1,11 @@
+{
+ "properties": {
+  "explosion_resistance": 6.0,
+  "friction": 0.6,
+  "hardness": 3.0,
+  "map_color": 59,
+  "requires_tool": true,
+  "sounds": "minecraft:deepslate"
+ },
+ "template": "minecraft:stone_stairs"
+}

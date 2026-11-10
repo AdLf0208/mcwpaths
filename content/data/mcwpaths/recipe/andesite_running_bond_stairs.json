@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:andesite_running_bond_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

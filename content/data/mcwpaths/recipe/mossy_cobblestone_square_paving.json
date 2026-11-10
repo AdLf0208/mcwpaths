@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:mossy_cobblestone",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:mossy_cobblestone_square_paving"
+  },
+  "type": "minecraft:stonecutting"
+}

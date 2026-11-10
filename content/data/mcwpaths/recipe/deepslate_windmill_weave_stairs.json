@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:deepslate",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:deepslate_windmill_weave_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

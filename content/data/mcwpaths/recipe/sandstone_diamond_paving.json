@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:sandstone",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:sandstone_diamond_paving"
+  },
+  "type": "minecraft:stonecutting"
+}
