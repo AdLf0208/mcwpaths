@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:granite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:granite_running_bond_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

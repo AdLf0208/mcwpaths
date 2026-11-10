@@ -1,0 +1,9 @@
+{
+  "group": "blocks",
+  "ingredient": "minecraft:red_sandstone",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:red_sandstone_flagstone"
+  },
+  "type": "minecraft:stonecutting"
+}

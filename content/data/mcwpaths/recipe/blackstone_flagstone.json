@@ -1,0 +1,9 @@
+{
+  "group": "blocks",
+  "ingredient": "minecraft:blackstone",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:blackstone_flagstone"
+  },
+  "type": "minecraft:stonecutting"
+}

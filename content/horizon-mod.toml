@@ -1,0 +1,8 @@
+# Carried over from mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar by horizon-port-pack, for local use only.
+# Licence: MIT
+id = "mcwpaths"
+name = "Macaw's Paths and Pavings"
+version = "0.1.0"
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

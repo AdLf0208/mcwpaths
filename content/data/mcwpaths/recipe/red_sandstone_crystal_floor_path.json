@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:red_sandstone",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:red_sandstone_crystal_floor_path"
+  },
+  "type": "minecraft:stonecutting"
+}

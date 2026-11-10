@@ -1,0 +1,9 @@
+{
+  "group": "blocks",
+  "ingredient": "minecraft:granite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:granite_running_bond"
+  },
+  "type": "minecraft:stonecutting"
+}

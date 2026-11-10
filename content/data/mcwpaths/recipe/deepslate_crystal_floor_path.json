@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:deepslate",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:deepslate_crystal_floor_path"
+  },
+  "type": "minecraft:stonecutting"
+}

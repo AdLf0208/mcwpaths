@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:mud_bricks",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:mud_brick_crystal_floor_path"
+  },
+  "type": "minecraft:stonecutting"
+}

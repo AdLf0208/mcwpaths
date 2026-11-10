@@ -1,0 +1,11 @@
+{
+ "properties": {
+  "explosion_resistance": 0.8,
+  "friction": 0.6,
+  "hardness": 0.8,
+  "map_color": 2,
+  "requires_tool": true,
+  "sounds": "minecraft:sandstone"
+ },
+ "template": "minecraft:stone_stairs"
+}

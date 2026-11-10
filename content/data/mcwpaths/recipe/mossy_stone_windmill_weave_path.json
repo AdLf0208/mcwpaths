@@ -1,0 +1,9 @@
+{
+  "group": "paths",
+  "ingredient": "minecraft:mossy_stone_bricks",
+  "result": {
+    "count": 4,
+    "id": "mcwpaths:mossy_stone_windmill_weave_path"
+  },
+  "type": "minecraft:stonecutting"
+}

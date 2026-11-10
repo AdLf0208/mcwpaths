@@ -1,0 +1,9 @@
+{
+  "group": "stairs",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:andesite_flagstone_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}
